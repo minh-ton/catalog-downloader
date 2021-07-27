@@ -1,0 +1,18 @@
+{
+  "name": "catalog-downloader",
+  "version": "1.0.0",
+  "description": "A simple script to download all available packages from macOS Software Update Catalog URLs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "MinhTon",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "plist": "^3.0.1",
+    "pretty-bytes": "^5.6.0",
+    "readline-sync": "^1.4.10",
+    "shelljs": "^0.8.4"
+  }
+}
