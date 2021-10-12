@@ -9,7 +9,7 @@
   "author": "MinhTon",
   "license": "MIT",
   "dependencies": {
-    "axios": "^0.21.4",
+    "axios": "^0.23.0",
     "plist": "^3.0.4",
     "pretty-bytes": "^5.6.0",
     "readline-sync": "^1.4.10",
