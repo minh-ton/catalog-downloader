@@ -11,7 +11,7 @@
   "dependencies": {
     "axios": "^0.27.2",
     "plist": "^3.0.4",
-    "pretty-bytes": "^6.0.0",
+    "pretty-bytes": "^6.1.0",
     "readline-sync": "^1.4.10",
     "shelljs": "^0.8.5"
   }
